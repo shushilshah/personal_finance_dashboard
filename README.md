@@ -1,2 +1,2 @@
-# personal_finance_dashboard
-A dashboard with the analysis of personal finance.
+# Personal Finance Dashboard
+
